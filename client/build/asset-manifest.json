@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33c47136.css",
+    "main.js": "/static/js/main.a04bff73.js",
+    "static/media/background.jpg": "/static/media/background.231e385526f3b32dc901.jpg",
+    "static/media/image.jpg": "/static/media/image.2a84d28488eec6362ee4.jpg",
+    "static/media/familyPic.jpg": "/static/media/familyPic.3c5a73731ed9b06f53c7.jpg",
+    "static/media/hero.jpg": "/static/media/hero.56e92b20e762df2fa5de.jpg",
+    "static/media/logo.png": "/static/media/logo.3eb562ac33a4e04b5ee4.png",
+    "static/media/p-6.png": "/static/media/p-6.3cfd39e3c93992a71208.png",
+    "static/media/p-3.png": "/static/media/p-3.d08fd804fe6f11f76fda.png",
+    "static/media/p-1.png": "/static/media/p-1.53b793d8b6b646fe9ae0.png",
+    "static/media/p-4.png": "/static/media/p-4.d41e3bbb8a136a4c5878.png",
+    "static/media/p-5.png": "/static/media/p-5.1a5720889994f55b633c.png",
+    "static/media/p-2.png": "/static/media/p-2.29e1ce82548249598508.png",
+    "static/media/place_1.webp": "/static/media/place_1.373267a00208dd6a9df8.webp",
+    "static/media/map-banner.webp": "/static/media/map-banner.bbbf08112fffdd7fb749.webp",
+    "static/media/place_2.webp": "/static/media/place_2.37e3b7c996b6e14283a8.webp",
+    "static/media/place_5.webp": "/static/media/place_5.7c79c4bb1b75da53a9e3.webp",
+    "static/media/swat.jpg": "/static/media/swat.19a37f0064178fc95c2f.jpg",
+    "static/media/h1.png": "/static/media/h1.39627af04b11bb28d173.png",
+    "static/media/place_4.webp": "/static/media/place_4.f5dd7a3bb007c1452286.webp",
+    "static/media/place_3.webp": "/static/media/place_3.045d20b2184b3e67f524.webp",
+    "static/media/h2.png": "/static/media/h2.23cd275134501e1723d9.png",
+    "static/media/h3.png": "/static/media/h3.cdc2e9c8d906eab2dd39.png",
+    "index.html": "/index.html",
+    "main.33c47136.css.map": "/static/css/main.33c47136.css.map",
+    "main.a04bff73.js.map": "/static/js/main.a04bff73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33c47136.css",
+    "static/js/main.a04bff73.js"
+  ]
+}
